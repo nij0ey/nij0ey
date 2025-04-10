@@ -1,4 +1,4 @@
-## Hi there 👋
+## 
 
 <!--
 **nij0ey/nij0ey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=6&height=200&text=Yeojin's%20GITHUB&fontsize=30&animation=twinkling&center=true)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0356CDC3&width=435&lines=simbada+jipsa)](https://git.io/typing-svg)
+
